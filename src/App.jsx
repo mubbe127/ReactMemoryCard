@@ -73,6 +73,7 @@ function App() {
           />
         ))}
       </div>
+      <div><h1>JALLA MANNEN</h1></div>
     </>
   );
 }
